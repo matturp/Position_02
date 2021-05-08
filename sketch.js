@@ -71,4 +71,24 @@ function draw() {
     ['Through the work of Hobbs and Munari I have found similar attitudes and reflections to those I have arrived at through my own iterative research. Inevitably my position on these questions is still developing and will lead to more foci of exploration.'],
     50,580,windowWidth-200,windowHeight
   );
+  
+    text(
+    ['References'],
+    50,620,windowWidth-200,windowHeight
+  );
+
+  text(
+    ['Hobbs, T. (2019) ‘Code goes in, Art comes out’, Tyler Hobbs, 22 June. Available at https://tylerxhobbs.com/essays/2019/code-goes-in-art-comes-out'],
+    50,640,windowWidth-200,windowHeight
+  );
+
+  text(
+    ['Hobbs, T. (2021) ‘The importance of Generative Art’, Tyler Hobbs, 5 May. Available at https://tylerxhobbs.com/essays/2021/the-importance-of-generative-art'],
+    50,660,windowWidth-200,windowHeight
+  );
+  
+  text(
+    ['Munari, B. (1966) Design as Art. London: Penguin Modern Classics, p. 169'],
+    50,680,windowWidth-200,windowHeight
+  );
 }
